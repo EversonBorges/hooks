@@ -20,7 +20,7 @@ const UseMemo = (props) => {
         <div className="UseMemo">
             <PageTitle
                 title="Hook UseMemo"
-                subtitle="Retorna um valor memorizado!"
+                subtitle="Retorna um valor memoizado!"
             />
             <div className="center">
                <input type="number" className="input" 
