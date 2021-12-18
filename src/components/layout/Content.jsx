@@ -14,6 +14,7 @@ import UseReducer from '../../views/examples/UseReducer'
 import UseCustom from '../../views/examples/UseCustom'
 
 const Content = props => (
+    
     <main className="Content">
         <Switch>
             <Route exact path="/">
